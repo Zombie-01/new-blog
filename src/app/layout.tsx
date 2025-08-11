@@ -64,7 +64,7 @@ export default function RootLayout({
         <div className="min-h-screen">{children}</div>
         <Footer />
       </body>
-      <script async src="https://widget.voyager.mn/widget.js" data-client-key="525bb1d8-e8fa-4053-a6da-a5ba6cfe8a2a"></script>
+      <script async src="https://widget.voyager.mn/widget.js" data-client-key="c419225e-cfdb-4dd4-85a8-baaca1daf423"></script>
 
     </html>
   );
